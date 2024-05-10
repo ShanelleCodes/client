@@ -1,3 +1,4 @@
+import { teal } from '@mui/material/colors';
 import {createTheme} from '@mui/material/styles';
 
 export const shades ={
@@ -12,8 +13,18 @@ export const shades ={
         800: "#000000",
         900: "#000000"
     },
-    
-secondary: {
+    secondary: {
+        100: "#cce6e6",
+        200: "#99cccc",
+        300: "#66b3b3",
+        400: "#339999",
+        500: "#008080",
+        600: "#006666",
+        700: "#004d4d",
+        800: "#003333",
+        900: "#001a1a"
+},
+red: {
     100: "#f7ccd2",
     200: "#ef99a4",
     300: "#e66677",
